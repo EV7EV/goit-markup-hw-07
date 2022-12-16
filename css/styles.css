@@ -1,5 +1,5 @@
 /* font-family: 'Raleway',sans-serif; */
-:root {
+/* :root {
   --main-text-color: #212121;
   --secondary-text-color: #757575;
   --main-background-color: #ffffff;
@@ -10,18 +10,18 @@
   --hero-btn-color: #188ce8;
   --secondary-background-color: #f5f4fa;
   --footer-contact-color: rgba(255, 255, 255, 0.6);
-}
+} */
 
-h1,
+/* h1,
 h2,
 h3,
 p,
 ul {
   margin: 0;
   padding: 0;
-}
+} */
 
-img {
+/* img {
   display: block;
   max-width: 100%;
   height: auto;
@@ -31,13 +31,13 @@ body {
   font-family: 'Roboto', sans-serif;
   color: var(--main-text-color);
   background-color: var(--main-background-color);
-}
-ul {
+} */
+/* ul {
   list-style: none;
-}
+} */
 
 /* header */
-
+/* 
 .container {
   width: 1200px;
   margin: 0 auto;
@@ -47,9 +47,9 @@ ul {
 .section {
   padding-top: 94px;
   padding-bottom: 94px;
-}
+} */
 
-.header-border {
+/* .header-border {
   border-bottom: 1px solid #ececec;
 }
 .header .container {
@@ -151,11 +151,11 @@ ul {
 .header-icon-tel:hover,
 .header-icon-tel:focus {
   fill: currentColor;
-}
+} */
 
 /* hero */
 
-.hero {
+/* .hero {
   background-color: #c4c4c4;
   padding-top: 200px;
   padding-bottom: 200px;
@@ -198,11 +198,11 @@ ul {
 .hero-btn:focus,
 .hero-btn:hover {
   background-color: var(--hero-btn-color);
-}
+} */
 
 /* feature section  */
 
-.feature-list {
+/* .feature-list {
   display: flex;
   gap: 30px;
 }
@@ -241,11 +241,11 @@ ul {
   line-height: calc(24 / 14);
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
-}
+} */
 
 /* section work */
 
-.work-section {
+/* .work-section {
   padding-top: 0;
 }
 
@@ -286,10 +286,10 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
-}
+} */
 /* section team */
 
-.team {
+/* .team {
   background-color: var(--secondary-background-color);
 }
 .team-title {
@@ -380,11 +380,11 @@ ul {
 
 .team-soc-icons {
   fill: currentColor;
-}
+} */
 
 /* clients */
 
-.clients-title {
+/* .clients-title {
   margin-bottom: 50px;
   font-weight: 700;
   font-size: 36px;
@@ -410,7 +410,7 @@ ul {
   margin-right: 30px;
 } */
 
-.clients-link {
+/* .clients-link {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -431,10 +431,10 @@ ul {
 
 .clients-icon {
   fill: currentColor;
-}
+} */
 
 /* footer */
-.footer {
+/* .footer {
   background-color: var(--footer-background-color);
   padding: 60px 0;
 }
@@ -542,7 +542,7 @@ ul {
 
 /* Footer-EMAIL */
 
-.subscribe-form {
+/* .subscribe-form {
   display: flex;
   align-items: flex-end;
   margin-left: 93px;
@@ -581,7 +581,7 @@ ul {
   font-size: 16px;
   line-height: calc(20 / 16);
   /* padding-left: 16px; */
-  display: flex;
+/* display: flex;
   align-items: center;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
@@ -616,10 +616,12 @@ ul {
   fill: var(--light-color);
   margin-left: 10px;
 }
+*/
+*/ */
 
 /* portfolio */
 
-.visually-hidden {
+/* .visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -631,8 +633,8 @@ ul {
   clip: rect(0 0 0 0);
   overflow: hidden;
   opacity: 0;
-}
-.btn-list {
+} */
+/* .btn-list {
   margin-bottom: 50px;
   display: flex;
   justify-content: center;
@@ -662,11 +664,11 @@ ul {
   color: var(--light-color);
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
-}
+} */
 
 /* Card-image */
 
-.card-list {
+/* .card-list {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
@@ -734,11 +736,11 @@ ul {
   line-height: calc(30 / 16);
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
-}
+} */
 
 /* modal */
 
-.backdrop {
+/* .backdrop {
   position: fixed;
   width: 100%;
   height: 100%;
@@ -883,15 +885,15 @@ ul {
   left: 12px;
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+/* }
 
 /* policy */
 
-label.modal-politic-label {
+/* label.modal-politic-label {
   display: flex;
   align-items: center;
   justify-content: center;
-}
+} */
 
 /* .modal-politic-label::before {
   content: '';
@@ -907,7 +909,7 @@ label.modal-politic-label {
   background-color: var(--accent-color);
 } */
 
-.modal-politic-check2 {
+/* .modal-politic-check2 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -973,4 +975,4 @@ label.modal-politic-label {
 .modal-button:hover,
 .modal-button:focus {
   background-color: var(--hero-btn-color);
-}
+} */ */ */
